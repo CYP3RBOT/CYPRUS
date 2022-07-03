@@ -1,14 +1,3 @@
--- GUI Codes:
--- https://xheptcofficial.gitbook.io/kavo-library/
-
-
--- Single Game/Universal Script Example:
--- https://pastebin.com/raw/ChQxPwYq
-
-
--- Multi-Game/Script Hub Example:
--- https://pastebin.com/raw/xPVv1zyx
-
 -- BASEPLATE GAME SCRIPT
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("CYPRUS v1", "Synapse")
